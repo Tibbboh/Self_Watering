@@ -1,3 +1,5 @@
+// this is a reocnstruction of teh oginal code and has not been tested with hardware
+
 // Pin assignments
 const int moistureSensor1 = A0; // First moisture sensor pin
 const int moistureSensor2 = A1; // Second moisture sensor pin
