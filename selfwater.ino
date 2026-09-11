@@ -1,4 +1,6 @@
-// this is a reocnstruction of teh oginal code and has not been tested with hardware
+//This is a reconstruction of the original code and has not been tested with hardware
+//ZB
+// 2023 - 2026
 
 // Pin assignments
 const int moistureSensor1 = A0; // First moisture sensor pin
